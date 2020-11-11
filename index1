@@ -1,0 +1,74 @@
+<html>
+    <head>
+       <title>Ejercicio HTML</title> <link rel="icon" href="img/manda.jpeg">
+    </head>
+    <body>
+        <header style="background-color:rgb(172, 183, 218)">
+            <h1 style="background-color: rgb(188, 207, 247);">MANDADITOS</h1>
+            <div align="center" ><img src="img/manda.jpeg" alt="Logotipo" width="500" height="200"></div>
+            
+            <nav>
+                <select name="" id="1">
+                    <option selected="0">MENU DE INICIO</option>
+                    <option value="1">INICIO</option>
+                    <option value="2">OFERTAS</option>
+                    <option value="3">SOBRE NOSOTROS</option>
+                </select>
+                <br>
+                <hr>
+            </nav>  
+
+                <!-- <ul>
+                    <li>INICIO</li>
+                    <li>OFERTAS</li>
+                    <li>SOBRE NOSOTROS</li>
+                </ul>Comentarios-->
+               
+
+               <!--<ol>
+                    <li>Opcion1</li>
+                    <li>Opcion x</li>
+                    <li>Opcion z</li>
+                </ol>--> 
+                <div align="center" style="background-color:rgb(172, 183, 218)"><img src="img/descarga.jpg" alt="" width="500" height="200"></div>
+            <nav align="center">
+                <h1 >Mandaditos</h1>
+                <p>
+                    Aprovecha tu tiempo al limite, haz cosas mas productivas y deja tus mandados a alguien mas. 
+                    Somos una empresa fiable que quiere hacerte la vida un poco más fácil. 
+                    Justamente así es como definimos nuestro trabajo.
+                </p>
+                <br>
+                <button>LEER MAS</button>
+                <button>↓</button>
+                
+            </nav>
+            <br>
+            <hr>
+            <nav align="center">
+                <div align="center" style="background-color:rgb(172, 183, 218)"><img src="img/Oferta.jpg" alt="" width="500" height="200"></div>
+               <h1>OFERTAS</h1>   
+               <p>
+                Las ofertas mas factibles para usted, compre lo mismo por menos dinero.
+                Visite nuestro apartado ofertas para que visualice lo mas nuevo y las mejores ofertas.
+                Si no encuentra lo que busca, contacte con nosotros, nos encantará ayudarle.
+                Las ofertas se actualizan regularmente.
+               </p>
+               <br>
+               <button style="background-color:rgb(99, 204, 218)" >Visite las ofertas</button>
+            </nav>
+            <br>
+            <hr>
+            <div align="center" style="background-color:rgb(172, 183, 218)"><img src="img/Compra.jpg" alt="" width="500" height="200"></div>
+            <nav align="center" >
+                <h1>¿QUIENES SOMOS?</h1>
+                <h2>Nuestro proyecto</h2>
+                <p>
+                Siempre estamos trabajando en algo. Normalmente, en conseguir ofertas para que nuestros
+                clientes aprovechen mejor su dinero y hacer que alguien mas haga las compras por
+                ellos para así ellos puedan aprovechar mejor su tiempo.</p>
+
+            </nav>
+        </header>
+    </body>
+</html>
