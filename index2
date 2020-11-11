@@ -3,25 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="icon" href="img/manda.jpeg">
-</head>
-<body>
-    <header style="background-color:rgb(172, 183, 218)">
-        <h1 style="background-color: rgb(188, 207, 247);">MANDADITOS</h1>
-        
-<h1>¿QUIENES SOMOS? </h1>
-        <table>
-            <tr>
-
-                <td>
-                    <div align="center"><img src="f165b9f2-dbd1-4a06-82b5-425d4963397a.jpg" alt="" width="660" height="400"></div>
-        
-<h3>Nuestro proyecto</h3><!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mas sobre nosotros</title>
     <link rel="icon" href="img/manda.jpeg">
 </head>
@@ -68,94 +49,6 @@
                 </td>
             
                 <td><div align="center"><img src="img 2/d64a3dd3-59f9-4dfa-a4c8-1b06363da52e.jpg" alt="" width="660" height="400"></div>
-                <h3>Nuestros clientes</h3>
-                <h5>
-                    <p>Porque somos un equipo con experiencia, de confianza y</p>
-                    <p>centrado en sus objetivos, tenemos el privilegio de trabajar con</p>
-                    <p>una gran cantidad de clientes fantásticos.</p>
-
-                </h5>
-                </td>
-            
-                
-              </tr>
-        </table>
-        <h3 style="color: white;" >RECUERDA</h3>
-        <h5 style="color: white;">
-        <ul>
-            <li type="disc"><p>Mandar la lista de los productos que requiera en su hogar </p> </li>
-            <li type="disc"><p>Proporcionarnos su ubicación</p></li>
-            <li type="disc"><p>Nombre de la tienda en la que prefiera que realicemos sus compras </p></li>
-            <li type="disc"><p>Numero telefónico para contactarlo cuando su pedido llegue a su domicilio</p></li>
-        </ul>
-        </h5>
-        
-</body>
-
-<div>
-    <h2>MANDADITOS</h2>
-    <table>
-        <tr>
-            
-            <td>
-                <h5>Nombre</h5>
-                <input type="text" name="nombre">
-            
-            </td>
-            <td>
-                <h5>Numero Telefonico</h5>
-                <input type="text" name="telefono">
-            </td>
-            <td>
-                <h5>Dirección de e-mail</h5>
-                <input type="text" size="20" maxlength="30" value="(Campo Obligatorio)" name="correo">
-            </td>
-            <td>
-                <h5>Ubicacion</h5>
-                <input type="text" size="20" maxlength="30" value="(Campo Obligatorio)" name="ubicacion">
-            </td>
-            
-        </tr>
-    </table>
-    <h5>Mensaje</h5>
-    <textarea name="mensaje" rows="15" cols="60">Escribe aquí tu pedido</textarea>
-    
-
-    
-</div>
-<input type="button">
-</html>
-        <h5> <p>Siempre estamos trabajando en algo. Normalmente, en conseguir</p>
-             <p>ofertas para que nuestros clientes aprovechen mejor su dinero</p>
-             <p>y hacer que alguien mas haga las compras por ellos para así ellos</p>
-            puedan aprovechar mejor su tiempo.</h5></td>
-            
-                <td> 
-                    <div align="center"><img src="4c7d21a4-15d9-4822-8c94-b5ec1c1f20f7.jpg" alt="" width="660" height="400"></div>
-                    
-                    <h3>Nuestra misión</h3>
-                    <h5><p> Es hacer que alguien mas haga las compra por usted, ya sea porque </p>
-             <p>es ama de casa y tiene muchas que hacer o alguien muy trabajador que</p>
-             <p>no tiene tiempo para hacer las compras o que no pueden perder tiempo  </p> 
-             <p>en hacer filas para pagar algún servicio o surtir la canasta básica</p>      
-             <p>Por este motivo trabajamos cada día para ayudar a personas como usted.</p></h5>
-             
-            </td>
-              </tr>
-            
-              <tr>
-            
-                <td><div align="center"><img src="340fc1ca-08f2-49e5-aaf5-44607e800cb7.jpg" alt="" width="660" height="400"></div>
-                <h3>Nuestros valores</h3>
-                <h5>
-                    <p>¿Por qué contar con nosotros para conseguir buenos</p>
-                    <p>resultados? Porque nuestra empresa es más que un negocio.</p>
-                    <p>Cada persona aporta algo diferente al equipo, pero siempre</p>
-                    <p>siguiendo un núcleo de valores que todos compartimos.</p>
-                </h5>
-                </td>
-            
-                <td><div align="center"><img src="d64a3dd3-59f9-4dfa-a4c8-1b06363da52e.jpg" alt="" width="660" height="400"></div>
                 <h3>Nuestros clientes</h3>
                 <h5>
                     <p>Porque somos un equipo con experiencia, de confianza y</p>
